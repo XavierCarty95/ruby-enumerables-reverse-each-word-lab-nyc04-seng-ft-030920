@@ -3,9 +3,9 @@
 
 def reverse_each_word(string)
 
-  string.each {|word| puts "#{word.reverse}" }
+hello =  string.each {|word| puts "#{word.reverse}" }
+hello
 
-   
 
 end
 
