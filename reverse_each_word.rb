@@ -11,4 +11,4 @@ def reverse_each_word(string)
 
 end
 
-reverse_each_word("Hello")
+print reverse_each_word("Hello")
