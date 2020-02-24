@@ -7,6 +7,6 @@ def reverse_each_word(string)
 
     puts "#{word.reverse}"
 
-end 
+end
 
 end
