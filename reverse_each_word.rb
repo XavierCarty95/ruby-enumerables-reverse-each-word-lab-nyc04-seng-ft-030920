@@ -1,4 +1,4 @@
-
+require_relative '../reverse_each_word.rb'
 
 
 def reverse_each_word(string)
